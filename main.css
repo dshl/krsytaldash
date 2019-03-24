@@ -1,0 +1,17 @@
+body {
+  background-image: url("mel-243617-unsplash.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+ section {
+     color: grey;
+     padding: 1em;
+     position: absolute;
+     top: 40%;
+     left: 50%;
+     margin-right: -50%;
+     transform: translate(-50%, -50%)
+   }
